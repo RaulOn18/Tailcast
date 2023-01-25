@@ -141,8 +141,6 @@ export const Navbar = () => {
                 href="https://github.com/matt765/Tidestream"
                 target="_blank"
               >
-                <GithubIcon />
-                Source code
               </a>
             </div>
           </motion.div>
